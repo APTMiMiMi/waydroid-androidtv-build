@@ -1,5 +1,5 @@
 # Android TV 11/13 builds for Waydroid
-[Demonstration video on YouTube](https://www.youtube.com/watch?v=NK1xxoJpPkQ)
+[Hi Android TV]
 ## Features
 - Full-featured Android TV 11/13 build with GApps preinstalled
 - VA-API video acceleration support for Intel/AMD GPUs
